@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Finley and I'm a Wenn ich Bock hab zu programmieren Programmierer, from Deutschland</h3>
+<h3 align="left">Hi 👋! My name is Finley</h3>
 
 ###
 
